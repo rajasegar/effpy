@@ -1,0 +1,26 @@
+{
+  "name": "effpy",
+  "version": "1.0.0",
+  "description": "Another functional programming library in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajasegar/effpy.git"
+  },
+  "keywords": [
+    "functional-programming"
+  ],
+  "author": "Rajasegar Chandran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajasegar/effpy/issues"
+  },
+  "homepage": "https://github.com/rajasegar/effpy#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3",
+    "mocha": "^3.2.0"
+  }
+}
